@@ -1,0 +1,6 @@
+{
+  "name": "AquaParts Chemicals",
+  "description": "Leading supplier of RO chemicals, cartridge & bag filters, dosing equipment, membranes, and industrial water treatment solutions in Karachi, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
